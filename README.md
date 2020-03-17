@@ -1,0 +1,1 @@
+noUiSlider-Non-linear
